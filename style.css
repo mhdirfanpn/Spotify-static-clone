@@ -1,0 +1,441 @@
+.header{
+    width: 100%;
+    height: 80px;
+    background: #000000;
+    color: #fff;
+    float: left;
+}
+
+body{
+    margin: 0;
+}
+
+
+
+.logo{
+    margin-left: 373px;
+    margin-top: 17px;
+    height: 46px;
+    width: auto;
+    
+    
+    
+}
+
+.left-header{
+    width: 50%;
+    height: 80px;
+    float: left;
+}
+.right-header{
+
+    margin-left: 1030px;
+    width: auto;
+    display: flex;
+    padding: auto;
+  
+    
+}
+
+.one,.two,.three,.four,.five{
+    margin-top: -3px;
+    padding: 17px;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 15.5px;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+    
+}
+.one,.two,.four,.five{
+    cursor: pointer;
+}
+.one:hover{
+    color: #1ed760;;
+}
+.two:hover{
+    color: #1ed760;
+}
+
+.four:hover{
+    color: #1ed760;
+}
+.five:hover{
+    color: #1ed760;;
+}
+
+.body{
+    height: 59px;
+    width: 100%;
+    
+}
+.body1{
+    background-image: url("spotify-logo/buble.png");
+    height: 600px;
+    width: 100%;
+    float: left;
+}
+.left-body1{
+    width: 40%;
+    float: left;
+}
+.mobile{
+    margin-left: 453px;
+    margin-top: 102px;
+    height: 498px;
+}
+
+.right-body1{
+    padding-top: 140px;
+    padding-left: 331px;
+    color: #fff;
+    font-weight: 900;
+    font-family: var(--font-family,spotify-circular),Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    padding-left: 830px;
+;
+}
+
+.button{
+    border-radius: 32px;
+    border: none;
+    color: black;
+    font-size: 16px;
+    margin: 4px 2px;
+    box-sizing: 30px;
+    height: 46px;
+    width: 176px;
+    border-width: 0px;
+    font-weight: bold;
+    transition: 150ms;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    
+}
+
+.button:hover{
+    transform: scale(1.03);
+}
+.body2{
+    height: 535px;
+    width: 100%;
+    background: #fff;
+    float: left;
+}
+
+.heading{
+   
+    text-align: center;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    padding-top: 49px;
+    font-weight: 900;
+    font-size: 40px;
+    letter-spacing: -0.015em;
+    
+
+}
+.l1{
+    float: left;
+    margin-left: 451px;
+    padding-top: 35px;
+}
+.l2{
+    float: left;
+    margin-left: 82px;
+    padding-top: 35px;
+}
+.l3{
+    float: left;
+    margin-left: 83px;
+    padding-top: 35px;
+}
+.l4{
+    float: left;
+    margin-left: 109px;
+    padding-top: 35px;
+}
+
+.text1{
+    text-align: center;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    margin-left: -22px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.h2{
+    text-align: center;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.body3{
+    height: 475px;
+    width: 100%;
+    float: left;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+}
+
+.h3{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 146px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.body4{
+    height: 570px;
+    width: 100%;
+    float: left;
+    background: #fff;
+}
+
+.h4{
+    text-align: center;
+    color: black;
+    font-size: 43px;
+    padding-top: 48px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif
+    ;
+}
+
+.h51{
+    margin-left: 400px;
+    padding-top: 43px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+    
+}
+
+.h52{
+    margin-left: 400px;
+    padding-top: 7px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    
+}
+
+.h53{
+    margin-left: 400px;
+    padding-top: 7px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.h54{
+    margin-left: 400px;
+    padding-top: 7px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.left-body4{
+    width: 70%;
+    float: left;
+}
+
+.right-body4{
+    width: 30%;
+    float: left;
+
+}
+
+.arrow1{
+    padding-top: 8px;
+    height: 20px;
+    width: 40px;
+}
+
+.arrow2{
+    padding-top: 48px;
+    height: 20px;
+    width: 40px;
+}
+
+.arrow3{
+    padding-top: 48px;
+    height: 20px;
+    width: 40px;
+}
+
+.arrow4{
+    padding-top: 48px;
+    height: 20px;
+    width: 40px;
+}
+.body5{
+    height: 475px;
+    width: 100%;
+    float: left;
+    background: url("spotify-logo/buble2.png")  
+  
+    
+}
+
+.h6{
+    color: #fff;
+    text-align: center;
+    padding-top: 110px;
+    font-size: 80px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.button1{
+    margin-left: 850px;
+    border-radius: 32px;
+    border: none;
+    color: black;
+    font-size: 16px;
+    box-sizing: 30px;
+    height: 46px;
+    width: 176px;
+    border-width: 0px;
+    font-weight: bold;
+    transition: 150ms;
+}
+
+.button1:hover{
+    transform: scale(1.03);
+}
+.footer{
+    
+    height: 470px;
+    width: 100%;
+    float: left;
+    background: black;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif
+
+    
+}
+
+.part1{
+    height: 400px;
+    width: 540px;
+    /* background: gray; */
+    float: left;
+}
+
+.part2{
+    height: 350px;
+    width: 220px;
+    /* background: blueviolet; */
+    float: left;
+    margin-top: 120px;
+    color: #fff;
+}
+
+.part3{
+    height: 350px;
+    width: 220px;
+    /* background: greenyellow; */
+    float: left;
+    margin-top: 120px;
+    color: #fff;
+}
+
+.part4{
+    height: 350px;
+    width: 220px;
+    /* background: violet; */
+    float: left;
+    margin-top: 120px;
+    color: #fff;
+}
+
+.part5{
+    height: 350px;
+    width: 600px;
+    /* background: yellowgreen; */
+    float: left;
+    margin-top: 120px;
+    color: #fff;
+}
+
+.logo1{
+    height: 46px;
+    width: auto;
+    margin-left: 370px;
+    margin-top: 120px;
+}
+
+.imginsta{
+    display: block;
+    width: 24px;
+    height: 24px;
+    color: #fff;
+    float: left;
+    padding: 20px;
+}
+.imgtwitter{
+    display: block;
+    width: 24px;
+    height: 24px;
+    color: #fff;
+    float: left;
+    padding: 20px;
+}
+
+.imgfb{
+    display: block;
+    width: 24px;
+    height: 24px;
+    color: #fff;
+    float: left;
+    padding: 20px;
+}
+
+.part6{
+    height: 95px;
+    width: 1535px;
+    float: left;
+    display: flex;
+    padding-left: 370px;
+    background: black;
+    float: left;
+    margin-top: -72px;
+}
+.a,.b,.c,.d,.r{
+    
+    color: gray; 
+    float: left; 
+    padding: 17px;
+}
+
+.h7{
+    color:gray;
+}
+
+.glob{
+    color: gray;
+    float: left;
+    padding-left: 410px;
+    display: flex;
+}
+
+.globimg{
+    height: 15px;
+    width: auto;
+}
+
+.ind{
+    color: gray;
+    margin-top: 0px;
+    padding-left: 4px;
+}
+
+.copy{
+    color: gray;
+    margin-left: -127px;
+    padding-top: 12px;
+}
+
+.h51:hover{
+    text-decoration: underline;
+    
+}
+.h52:hover{
+    text-decoration: underline;
+}
+
+.h53:hover{
+    text-decoration: underline;
+    
+}
+.h54:hover{
+    text-decoration: underline;
+}
